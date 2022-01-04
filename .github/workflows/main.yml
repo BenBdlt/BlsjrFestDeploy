@@ -28,5 +28,3 @@ jobs:
 
       - name: npm build
         run: npm run build
-      - name: npm serve
-        run: npm run serve
